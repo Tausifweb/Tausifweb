@@ -1,3 +1,4 @@
+<img src="https://github.com/satwikn07/satwikn07/raw/main/Images/display.gif" align-item="center"/>
 <h1 align="center">Hi 👋, I'm Md Tausif</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
